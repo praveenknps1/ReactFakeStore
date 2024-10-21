@@ -241,9 +241,7 @@ let dis=[
     }
 ]
 
-// let res=dis.flatMap((val,ind,arr)=>{
-// let res=dis.reduceRight((total,val,ind,arr)=>{
-// let res=dis.reduce((total,val,ind,arr)=>{
+
     let res=dis.map((val,ind,arr)=>{
 
 
